@@ -37,3 +37,15 @@
     transform: translateY(0px);
   }
 }
+
+
+.post-card{
+  margin: 10px 30px;
+  font-size: 12px;
+  background-color: blanchedalmond;
+}
+
+.post-card > h3{
+  margin: 10px 30px;
+  font-size: 16px;
+}
